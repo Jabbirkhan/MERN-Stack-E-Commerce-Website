@@ -56,13 +56,12 @@ git clone https://github.com/Jabbirkhan/MERN-Stack-E-Commerce-Website.git
 ```bash
 cd backend
 npm install
-npm run server
 ```
 
 Create `.env` with MongoDB URI, Cloudinary keys, JWT secret, etc., then start:
 
 ```bash
-npm run dev
+npm run server
 ```
 
 ### Frontend
